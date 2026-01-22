@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Science Student<br>I'm interested in Machiene Learning<br>I like Data Analysis
+I'm a Data Science Student<br>I'm interested in Machiene Learning<br>I like Data Analysis & stuff.
 
 
 ## 🌐 Socials:
